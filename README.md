@@ -10,8 +10,11 @@ In the Future, I would like to add
   o	title
   o	Series
   o	Episodes
+  
 •	Search parameter of release year.
+
 •	The ability for the user to save movies under a 'My Content' tab 
+
 •	The ability for the user to add comments to each individual movie saved in the 'My Content' tab
 
 
