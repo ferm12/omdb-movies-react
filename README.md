@@ -6,10 +6,7 @@ The only working functionality of the App right now is to search for movies that
 
 In the Future, I would like to add
 
-•	Selection of different categories to search by 
-  o	title
-  o	Series
-  o	Episodes
+•	Selection of different categories to search by title, Series or Episodes
   
 •	Search parameter of release year.
 
