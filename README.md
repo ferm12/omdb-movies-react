@@ -1,5 +1,3 @@
-This is one of my personal projects.
-
 This React App calls the http://www.omdbapi.com/ API to display a list of movies.
  
 The only working functionality of the App right now is to search for movies that will match content according to the title.
