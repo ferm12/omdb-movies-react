@@ -12,7 +12,6 @@ In the Future, I would like to add
 
 •	The ability for the user to add comments to each individual movie saved in the 'My Content' tab
 
-Take a look
 
 
 
